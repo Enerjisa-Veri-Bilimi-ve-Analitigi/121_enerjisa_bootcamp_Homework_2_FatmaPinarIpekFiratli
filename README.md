@@ -6,4 +6,5 @@
 5. predict_proba metoduyla oran nasıl hesaplanır ve treshold nasıl değiştirilir?
 6. Fraud case'i üzerinde train&test&validation split, encoding, scaling,modelleme çalışmaları Python'da yapılarak, modelin görmediği dataset üzerinde başarılı sonuç alacak bir model örneği yapılmalı.
 
-Bu ödev ilk 5 soru araştırma ödevi olup 6. soru bize verilen csv dosyası üzerinden istenen hesaplamalar yapılmıştır.
+- Bu ödev ilk 5 soru araştırma ödevi olup 6. soru bize verilen csv dosyası üzerinden istenen hesaplamalar yapılmıştır.
+
